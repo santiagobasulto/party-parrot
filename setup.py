@@ -11,6 +11,9 @@ setuptools.setup(
     long_description_content_type="text/markdown",
     url="https://github.com/santiagobasulto/party-parrot",
     packages=['party_parrot'],
+    package_data={
+        'party_parrot': ['frames/*.txt'],
+    },
     scripts=['main.py'],
     entry_points={
         'console_scripts': [
