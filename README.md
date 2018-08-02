@@ -3,13 +3,14 @@
 Invite the parrot to your terminal and enjoy the party!
 
 
-✨⭐️✨
+
 
 <div align="center">
+  <p>✨⭐️✨</p>
   <img src='https://raw.githubusercontent.com/santiagobasulto/party-parrot/master/parrot.gif' />
+  <p>✨⭐️✨</p>
 </div>
 
-✨⭐️✨
 
 ## Install instructions
 
