@@ -3,7 +3,7 @@ import setuptools
 
 setuptools.setup(
     name="party-parrot",
-    version="0.0.2",
+    version="0.0.3",
     author="Santiago Basulto",
     author_email="santiago.basulto@gmail.com",
     description="Party or die",
