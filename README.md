@@ -24,6 +24,8 @@ $ pip install party-parrot
 $ party
 ```
 
+To quit the party 😒, just hit the `q` key (but you must accept you're killing the party).
+
 ## Inspired by
 
 Originally, @hugomd [parrot.live](https://github.com/hugomd/parrot.live). I took the frames from there, which seem to belong to [terminal-parrot](https://github.com/jmhobbs/terminal-parrot).
