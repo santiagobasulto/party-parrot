@@ -1,6 +1,6 @@
 # Party Parrot
 
 ```bash
-$ pip install -r requirements.txt
-$ python -m party_parrot
+$ pip install party-parrot
+$ party  # let the fun start
 ```
