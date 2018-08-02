@@ -2,7 +2,14 @@
 
 Invite the parrot to your terminal and enjoy the party!
 
-![Party parrot gif](https://raw.githubusercontent.com/santiagobasulto/party-parrot/master/parrot.gif)
+
+✨⭐️✨
+
+<div align="center">
+  <img src='https://raw.githubusercontent.com/santiagobasulto/party-parrot/master/parrot.gif' />
+</div>
+
+✨⭐️✨
 
 ## Install instructions
 
